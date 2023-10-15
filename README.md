@@ -18,8 +18,7 @@ I'm Mikhail Blakhin, a Team Leader, Data Scientist, Analyst and Developer with a
 
 Here, you'll find a collection of projects that span various industries: from game market analysis to gold recovery prediction and steel temperature forecasting.
 
-My GitHub repositories are a testament to my dedication to tackling complex data challenges, optimizing processes, and driving data-driven strategies. With a background in project management and strong leadership skills, I am committed to delivering results.
-
+With a background in project management and strong leadership skills, I am committed to delivering results.
 If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out. Let's explore how we can work together to achieve data-driven success.
 
 **Thank you for visiting my GitHub profile, and I look forward to connecting with you.**
