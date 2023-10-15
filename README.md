@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
 **Hello, and welcome to my GitHub profile👋**
 
-I'm Mikhail Blakhin, a Team Leader, Data Scientist, Analyst and Developer with a passion for all things data. 
-My GitHub repositories are a reflection of my journey in data science, analytics, and machine learning.
+I'm Mikhail Blakhin, a Team Leader, Analyst and Data Scientist with a passion for all things data. 
+My GitHub repositories are a reflection of my journey.
 Here, you'll find a collection of projects that span various industries: from game market analysis to gold recovery prediction and steel temperature forecasting.
 
-With a background in project management and strong leadership skills, I am committed to delivering results. If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out.  Let's explore how we can work together to achieve data-driven success.
+With a master's degree in Engineering, I have established a strong tech foundation and intuitive expertise. My previous roles have further enriched my skill set, endowing me with excellent leadership, technical aptitude, and a keen understanding of business and strategic planning.
+
+If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out. I'm always open to new opportunities and collaborations.
 
 ---
 
