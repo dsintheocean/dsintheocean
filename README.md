@@ -1,11 +1,12 @@
 **Hello, and welcome to my GitHub profile👋**
 
-I'm Mikhail Blakhin, a Team Leader, Analyst and Data Scientist with a passion for all things data. 
-My GitHub repositories are a reflection of my journey. You'll find here a collection of projects that span various industries: from game market analysis to gold recovery prediction and steel temperature forecasting.
+I'm Mikhail Blakhin, a Team Leader, Analyst, and Data Scientist, passionate about all things data. With a master's degree in Engineering and a track record of successful projects in machine learning and data analysis, I've honed my skills in Python, SQL, and tools like TensorFlow and scikit-learn.
 
-With a master's degree in Engineering, I have established a strong tech foundation and intuitive expertise. My previous roles have further enriched my skill set, endowing me with excellent leadership, technical aptitude, and a deep understanding of business and strategic planning.
+You'll find a collection of my data-driven projects here, ranging from in-depth game market analysis to precise gold recovery predictions and steel temperature forecasting.
 
-If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out. I'm always open to new interesting opportunities and collaborations.
+Throughout my career, I've led teams, solved complex problems, and delivered actionable insights. I've had the privilege of growing within companies like SKF Group, gaining a deep understanding of business strategy and planning.
+
+If you're seeking a collaborator who can transform data into actionable insights and drive business growth, feel free to reach out. I'm always open to exciting new opportunities and collaborations.
 
 ---
 
