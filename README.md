@@ -21,10 +21,13 @@ Here, you'll find a collection of projects that span various industries: from ga
 With a background in project management and strong leadership skills, I am committed to delivering results. If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out.  Let's explore how we can work together to achieve data-driven success.
 
 ---
+
 ### Connect with me:
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 ---
+
 <br />
 
 ### Languages and Tools:
