@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Mikhail Blakhin 👋
 
 Hello, and welcome to my GitHub profile👋
-I'm Mikhail Blakhin, a Team Leader, Data Scientist and Analyst and Developer with a passion for all things data. My GitHub repositories are a reflection of my journey in data science, analytics, and machine learning.
+I'm Mikhail Blakhin, a Team Leader, Data Scientist, Analyst and Developer with a passion for all things data. My GitHub repositories are a reflection of my journey in data science, analytics, and machine learning.
 
 Here, you'll find a collection of projects that span various industries and demonstrate my ability to extract valuable insights from data. From game market analysis to gold recovery prediction and steel temperature forecasting, these projects reflect my expertise in Python, machine learning, and data analysis tools.
 
