@@ -19,7 +19,7 @@ My GitHub repositories are a reflection of my journey. You'll find here a collec
 
 With a master's degree in Engineering, I have established a strong tech foundation and intuitive expertise. My previous roles have further enriched my skill set, endowing me with excellent leadership, technical aptitude, and a keen understanding of business and strategic planning.
 
-If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out. I'm always open to new opportunities and collaborations.
+If you're looking for a collaborator who can bring data to life and drive business growth through insights, please feel free to reach out. I'm always open to new interesting opportunities and collaborations.
 
 ---
 
