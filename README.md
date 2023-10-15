@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Mikhail Blakhin - aka DSinTheOcean 👋
+### Hi there, I'm Mikhail Blakhin 👋
 
-## I'm a Team Leader, Developer, and Data Scientist!
+## I'm a Team Leader, Data Scientist and Developer!
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
