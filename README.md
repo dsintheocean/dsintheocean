@@ -20,17 +20,18 @@ If you're seeking a collaborator who can transform data into actionable insights
 <img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <!--
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dsintheocean&show_icons=true&hide_border=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
+<br/>
 
 ---
-
 ### Projects
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Test](eng_age_prediction_resnet50.ipynb) | test description | Keras, TensorFlow |
 | [Test2](big_cities_music) | test description2 test description2 test description2 test description2 test description2 test description2 test description2 | Pandas, NumPy |
+-->
