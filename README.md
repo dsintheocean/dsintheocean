@@ -32,6 +32,6 @@ If you're seeking a collaborator who can transform data into actionable insights
 
 | Project Name | Description | Toolkit | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Metals Plant Steel Temperature Prediction](https://github.com/dsintheocean/steel-temperature-prediction) |Predict the temperature of steel using the process data from DCS and OPC to optimize production costs. | Python, Matplotlib, Pandas, EDA, Scikit-learn, CatBoost |
-| [Mining Industry Gold Recovery Prediction](https://github.com/dsintheocean/gold-recovery-prediction) | Predict the concentration of gold during the gold purification process using the process data from DCS and OPC not to launch an unprofitable enterprise.| Python, Matplotlib, Seaborn NumPy, Pandas, EDA, Scikit-learn |
+| [Metals Plant Steel Temperature Prediction](https://github.com/dsintheocean/steel-temperature-prediction) |Predict the temperature of steel during melting using the process data from a DCS to optimize production costs. | Python, Matplotlib, Pandas, EDA, Scikit-learn, CatBoost |
+| [Mining Industry Gold Recovery Prediction](https://github.com/dsintheocean/gold-recovery-prediction) | Predict the concentration of gold during purification using the process data from a DCS not to launch an unprofitable enterprise.| Python, Matplotlib, Seaborn NumPy, Pandas, EDA, Scikit-learn |
 | [Mining Industry Gold Recovery Prediction](https://github.com/dsintheocean/gold-recovery-prediction) | Predict the concentration of gold during the gold purification process using the process data from DCS and OPC not to launch an unprofitable enterprise.| Python, Matplotlib, Seaborn NumPy, Pandas, EDA, Scikit-learn |
