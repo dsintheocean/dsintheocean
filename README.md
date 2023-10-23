@@ -30,7 +30,7 @@ If you're seeking a collaborator who can transform data into actionable insights
 ---
 ### Projects
 
-| Project Name | Description | Stack | 
+| Project Name | Description | Toolkit | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Steel Temperature Prediction](https://github.com/dsintheocean/steel-temperature-prediction) |Predict the temperature of steel using the technical process data from DCS and OPC server to optimize production costs. | Python, Matplotlib, Pandas, Scikit-learn, EDA, CatBoost |
+| [Metals Plant Steel Temperature Prediction](https://github.com/dsintheocean/steel-temperature-prediction) |Predict the temperature of steel using the technical process data from DCS and OPC server to optimize production costs. | Python, Matplotlib, Pandas, EDA, Scikit-learn, CatBoost |
 | [Test2](big_cities_music) | test description2 test description2 test description2 test description2 test description2 test description2 test description2 | Pandas, NumPy |
