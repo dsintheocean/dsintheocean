@@ -24,14 +24,13 @@ If you're seeking a collaborator who can transform data into actionable insights
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dsintheocean&show_icons=true&hide_border=true" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!--
+
 <br/>
 
 ---
 ### Projects
 
-| Название проекта | Описание | Используемые библиотеки | 
+| Project Name | Description | Stack | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Test](eng_age_prediction_resnet50.ipynb) | test description | Keras, TensorFlow |
+| [Steel Temperature Prediction](https://github.com/dsintheocean/steel-temperature-prediction) |Predict the temperature of steel using the technical process data from DCS and OPC server to optimize production costs. | Python, Matplotlib, Pandas, Scikit-learn, EDA, CatBoost |
 | [Test2](big_cities_music) | test description2 test description2 test description2 test description2 test description2 test description2 test description2 | Pandas, NumPy |
--->
