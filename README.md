@@ -44,5 +44,5 @@ If you're seeking a collaborator who can transform data into actionable insights
 | [Bank Credit Score Analysis](https://github.com/dsintheocean/credit-score-analysis) | Investigated the impact of client income, marital status, number of children and loan purpose on loan repayment using solvency statistics | Pandas, Python, Data Preprocessing | Categorization, Decomposition |
 | [Taxi Orders Next Hour Forecasting](https://github.com/dsintheocean/time-series-forecasting) | Predicted the number of taxi orders for the next hour to attract more drivers during peak demand periods | Pandas, Python, Scikit-learn, statsmodels | Time Series, Regression |
 | [Clients' Data Protection](https://github.com/dsintheocean/data-protection-algorithm) | Development of a model for anonymization of personal data | NumPy, Python, Scikit-learn | Linear Algebra, Regression |
-| [Telegram GPT Bot](https://github.com/dsintheocean/telegram-gpt-bot) | Development of the Telegram bot with the integrated ChatGPT using OpenAI API | Telegram, OpenAI, Python, speech_recognition, Logger | Bot, API, Speech Recognition |
+| [Telegram GPT Bot](https://github.com/dsintheocean/telegram-gpt-bot) | Development of the Telegram bot with the integrated ChatGPT using OpenAI API | Telegram, OpenAI, Python, speech_recognition, Logger | Speech Recognition, API, Bot |
 
