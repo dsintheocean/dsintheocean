@@ -2,7 +2,7 @@
 
 I'm Mikhail Blakhin, a Team Leader, Analyst, and Data Scientist, passionate about all things data. 
 
-With a master's degree in Engineering and a track record of successful projects in Machine Learning and Data Analysis, I've honed my skills in Python, SQL, and tools like TensorFlow and Scikit-learn. You'll find a collection of my data-driven projects here, ranging from in-depth game market analysis to precise gold recovery predictions and steel temperature forecasting.
+With a master's degree in Engineering and a track record of successful projects in Machine Learning and Data Analysis, I've honed my skills in Python, SQL, and tools like Keras and Scikit-learn. You'll find a collection of my data-driven projects here, ranging from in-depth game market analysis to precise gold recovery predictions and steel temperature forecasting.
 
 Throughout my career, I've led teams, solved complex problems, and delivered actionable insights. I've had the privilege of growing within companies like SKF Group, gaining a deep understanding of business strategy and planning.
 
