@@ -1,8 +1,7 @@
 **Hello, and welcome to my GitHub profile👋**
 
-I'm Mikhail Blakhin, a Team Leader, DA & DS passionate about all things data. 
-
-With a master's degree in Engineering and a track record of successful projects I've honed my skills in Python, SQL, and tools like Keras and Scikit-learn. You'll find a collection of my data-driven projects here, ranging from in-depth game market analysis to precise gold recovery predictions and steel temperature forecasting.
+I'm Mikhail Blakhin, a Leader and Consultant. Passionate about all things data. 
+With a master's degree in Automation and NDT and a track record of successful projects. You'll find a collection of my data-driven projects here, ranging from in-depth market analysis to precise predictions and forecasting for different industries.
 
 Throughout my career, I've led teams, solved complex tech and business problems, and delivered actionable insights. I've had the privilege of growing within companies like [SKF Group](https://www.skf.com/uk/services), gaining a deep understanding of business strategy and planning.
 
